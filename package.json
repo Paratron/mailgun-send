@@ -1,0 +1,22 @@
+{
+  "name": "mailgun-send",
+  "version": "1.0.0",
+  "description": "A tiny module to send mails via mailgun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paratron/mailgun-send.git"
+  },
+  "keywords": [
+    "mailgun"
+  ],
+  "author": "Christian Engel (@paratron)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paratron/mailgun-send/issues"
+  },
+  "homepage": "https://github.com/Paratron/mailgun-send#readme"
+}
